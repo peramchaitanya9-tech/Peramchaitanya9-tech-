@@ -25,7 +25,7 @@
 
 <!-- EDIT: Replace with 2-4 sentences about yourself -->
 - 🎓 2nd Year **CSE – AI & ML** student at **NEC College**, graduating in **2029**
-- 💡 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**
+- 💡 Passionate about **Artificial Intelligence & Machine Learning(AI&ML), and Web Development**
 - 📊 Currently exploring **stock-market analytics** and strengthening my **DSA & Java OOP** fundamentals
 - 🌱 Always looking for interesting problems to solve and projects to build
 
