@@ -1,6 +1,6 @@
 <!--
   ============================================================
-  GitHub Profile README for Peram Chaitanya
+  GitHub Profile README for Peram Chaitanya9-tech
   Edit any line marked with <!-- EDIT --> to personalize further.
   ============================================================
 -->
